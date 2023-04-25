@@ -1,0 +1,11 @@
+# ninja log v5
+1	95	1679252175076263680	CMakeFiles/cpp_oo.dir/Account/Person.cpp.o	9690ccec0554f902
+1	140	1679484907896068143	CMakeFiles/cpp_oo.dir/Account/SavingsAccount.cpp.o	e3ed879d765fa569
+1	96	1679252175076263680	CMakeFiles/cpp_oo.dir/Account/Employee.cpp.o	c674dabfef3e0ea7
+1	96	1679252175076263680	CMakeFiles/cpp_oo.dir/Account/Owner.cpp.o	115dfc110fdce26a
+0	128	1679484920075282367	CMakeFiles/cpp_oo.dir/Account/CurrencyAccount.cpp.o	544b4d1e1b7b2872
+0	172	1679251956962043707	CMakeFiles/cpp_oo.dir/Account/Id.cpp.o	15fb25bb4240bac0
+0	15	7009765305123397	build.ninja	ea564e43158a4ed
+1	142	1679484907900067883	CMakeFiles/cpp_oo.dir/main.cpp.o	74c397fda0757ba5
+128	169	1679484920115279811	cpp_oo	b13c2c65775ec922
+0	139	1679484907896068143	CMakeFiles/cpp_oo.dir/Account/Account.cpp.o	8945f4ab9b18e5f8

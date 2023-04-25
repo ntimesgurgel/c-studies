@@ -1,0 +1,1 @@
+inline bool is_hanged(const int& tries);

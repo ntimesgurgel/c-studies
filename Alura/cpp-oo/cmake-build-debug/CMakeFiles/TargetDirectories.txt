@@ -1,0 +1,3 @@
+C:/Users/Nathan/OneDrive/Programming/c-cpp-studies/Alura/cpp-oo/cmake-build-debug/CMakeFiles/cpp_oo.dir
+C:/Users/Nathan/OneDrive/Programming/c-cpp-studies/Alura/cpp-oo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nathan/OneDrive/Programming/c-cpp-studies/Alura/cpp-oo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
